@@ -20,6 +20,10 @@ python exchange_proxyshell.py -u https://<IP>
 ### Example output
 ![Proof](poc.png)
 
+# Mitigations
+Apply the security updates found here: 
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34473
+
 # Prior Research Credit
 - https://devco.re/blog/2021/08/22/a-new-attack-surface-on-MS-exchange-part-3-ProxyShell/
 - https://www.zerodayinitiative.com/blog/2021/8/17/from-pwn2own-2021-a-new-attack-surface-on-microsoft-exchange-proxyshell
