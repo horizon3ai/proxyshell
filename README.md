@@ -29,3 +29,6 @@ https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34473
 - https://www.zerodayinitiative.com/blog/2021/8/17/from-pwn2own-2021-a-new-attack-surface-on-microsoft-exchange-proxyshell
 - https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1
 - https://github.com/dmaasland/proxyshell-poc
+
+# Disclaimer
+This software has been created purely for the purposes of academic research and for the development of effective defensive techniques, and is not intended to be used to attack systems except where explicitly authorized. Project maintainers are not responsible or liable for misuse of the software. Use responsibly.
