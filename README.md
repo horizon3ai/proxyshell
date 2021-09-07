@@ -15,7 +15,7 @@ https://www.horizon3.ai/news/blog/proxyshell
 
 # Usage
 ```bash
-python exchange_proxyshell.py -u https://<IP>
+python3 exchange_proxyshell.py -u https://<IP>
 ```
 ### Example output
 ![Proof](poc.png)
